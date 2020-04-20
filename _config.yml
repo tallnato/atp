@@ -1,12 +1,12 @@
 # Site settings
 title: Android Training Program
-email: atp@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-
-twitter_username:
-github_username:
+email: atp@gmail.com #TODO
+description: > # this means to ignore newlines until "baseurl:" #TODO
+baseurl: "" # the subpath of your site, e.g. /blog/ #TODO
+url: "" # the base hostname & protocol for your site #TODO
+ 
+twitter_username: #TODO
+github_username: #TODO
 
 # Build settings
 markdown: kramdown
