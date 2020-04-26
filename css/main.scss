@@ -33,12 +33,19 @@
 //     }
 // }
 
+
+$android-green: #3ddc84;
+$android-blue: #4285f4;
+$android-navy: #073042;
+
+
 // variables.less
-$theme-primary: #3ddc84;
+$theme-primary: $android-green;
 $theme-dark: #1c663d;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
-        "base"
+        "base",
+        "timeline"
 ;
