@@ -42,12 +42,17 @@ p {
     margin-bottom: 20px;
 }
 
-.bg-primary {
-    background-color: $theme-primary;
+.bg-green {
+    background-color: $android-green;
 }
 
-.bg-dark {
-    background-color: $theme-dark;
+// .bg-dark {
+//     background-color: $theme-dark;
+//     color: white;
+// }
+
+.bg-blue {
+    background-color: $android-blue;
     color: white;
 }
 
@@ -317,7 +322,7 @@ header {
 
 // Contact
 #contact .fa {
-    color: $theme-dark;
+    color: black;
     font-size: 4em;
 }
 
