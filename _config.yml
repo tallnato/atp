@@ -1,6 +1,6 @@
 # Site settings
 title: Android @Home
-email: atp@gmail.com #TODO
+email: TODO@gmail.com #TODO
 description: > # this means to ignore newlines until "baseurl:" #TODO
 baseurl: "" # the subpath of your site, e.g. /blog/ #TODO
 url: "" # the base hostname & protocol for your site #TODO
