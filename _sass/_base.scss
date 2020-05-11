@@ -44,6 +44,7 @@ p {
 
 .bg-green {
     background-color: $android-green;
+    color: white;
 }
 
 // .bg-dark {
@@ -160,7 +161,8 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-color: $android-blue;
+    // background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -285,7 +287,7 @@ header {
 
 .call-to-action {
     h2 {
-        margin: 0 auto 20px;
+        margin: 0 auto 0px;
     }
 }
 
@@ -354,3 +356,14 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+
+// .img-responsive {
+//     display: block;
+//     height: auto;
+//     width: 100%;
+// }
+
+.container-full {
+    margin: 0 auto;
+    width: 100%;
+}
